@@ -9,7 +9,7 @@ My leadership philosphy can be boiled down to _being constantly curious, technic
 [^1]: Read more in my [about](https://github.com/jahewett/manager-docs/blob/main/docs/about.md#my-philosphy) me document
 
 
-# Table of contents ℹ️
+##  ℹ️ Table of contents
 - [About](https://github.com/jahewett/manager-docs/blob/main/docs/about.md)
   - [Philosphy](https://github.com/jahewett/manager-docs/blob/main/docs/about.md)
   - [Values](https://github.com/jahewett/manager-docs/blob/main/docs/about.md#what-do-i-value)
