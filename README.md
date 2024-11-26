@@ -10,10 +10,12 @@ My leadership philosphy can be boiled down to _being constantly curious, technic
 
 
 # Table of contents ℹ️
-- About me
-  - Philosphy
-  - Work/Life Balance
-  - Principles
+- [About](https://github.com/jahewett/manager-docs/blob/main/docs/about.md)
+  - [Philosphy](https://github.com/jahewett/manager-docs/blob/main/docs/about.md)
+  - [Values](https://github.com/jahewett/manager-docs/blob/main/docs/about.md#what-do-i-value)
+  - [Things I'm working on](https://github.com/jahewett/manager-docs/blob/main/docs/about.md#things-im-trying-to-get-better-at)
+- Work/Life Balance
+- Principles
 - My role
 - Expectations
-- Things i'm working on
+
