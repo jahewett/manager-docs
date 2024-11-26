@@ -1,5 +1,5 @@
 # User Manual 📖
-This is my manual. It describes how I interact with others and think about the world. This isn't a place for me to make excuses, it's a place for me to be honest. The goal is that whoever is reading this, can understand me and how I work.  
+This is kinds like a user manual. It describes how I interact with others and think about the world and how we can work together efffectively. This isn't a place for me to make excuses, it's a place for me to be honest. The goal is that whoever is reading this can understand me, how I work and think and how we can work together.  
 
 My North Star ⭐
 I care _a lot_ about delivering value and helping the people I work with grow in their careers, and as fellow human beings. 
