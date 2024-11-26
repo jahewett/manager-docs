@@ -12,7 +12,7 @@ _**I'm constantly curious, technically able, with a focus on collaboratively del
 ## What do i value?
 - **Outcomes over outputs**: The best engineers and teams deliver results that make a difference for our customers (see [Outcomes over output]()).
 - **Proactive ownership**: I look to build a team of leaders who will proactively identify and own outcomes in their domain (see [Turn The Ship Around](https://candost.blog/books/turn-the-ship-around-summary-book-chapter-notes/)).
-- **Learning from "failures"**: Wether it's production incidents or building the wrong product, if we fail we acknowlege it and learn from it.
+- **Learning from "failures"**: Failure is inevitable, when i thappens we acknowlege it, fix it and learn.
 - **Domain expertise**: People who know the deep, dark dirty details of their domain are invaluable. 
 - **Clear and concise communication (verbal & written)** - Excellent communication in the work place can solve many problems (see [Never Split The Difference]()).
 - **Radical candour**: Care personally, regularly challenge directly and provide actionable and specific feedback (see [Radical Candor]()).
