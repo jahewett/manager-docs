@@ -12,13 +12,13 @@ _**I'm constantly curious, technically able, with a focus on collaboratively del
 ## What do i value?
 - **Outcomes over outputs**: The best engineers and teams deliver results that make a difference for our customers (see [Outcomes over output]()).
 - **Proactive ownership**: I look to build a team of leaders who will proactively identify and own outcomes in their domain (see [Turn The Ship Around](https://candost.blog/books/turn-the-ship-around-summary-book-chapter-notes/)).
+- **Learning from "failures"**: Wether it's production incidents or building the wrong product, if we fail we acknowlege it and learn from it.
 - **Domain expertise**: People who know the deep, dark dirty details of their domain are invaluable. 
 - **Clear and concise communication (verbal & written)** - Excellent communication in the work place can solve many problems (see [Never Split The Difference]()).
-- **Listen, don't interrupt**: Give people room to speak. But ask questions, challenge and push if you think something doens't feel right.
 - **Radical candour**: Care personally, regularly challenge directly and provide actionable and specific feedback (see [Radical Candor]()).
-- **Articulating trade-offs and options**: Proposals and designs should have thought through and articulated alternatives. 
-- **Thinking through and tackling edge cases**: This is something I really value in engineers, the ability to identify and tackle edge cases before they become problems is a very valuable skill. At Monzo i learnt the hard ways that, at scale, edge cases can really hurt the business and the product.
+- **Listen, don't interrupt**: Give people room to speak. But ask questions, challenge and push if you think something doens't feel right.
 - **Decisions and action over extended discussions**: Talk is cheap, cheaper than writing code and fixing bugs. But, we should avoid endless discussion and look to make a decision and take action. Actions _tend_ to be reversible, when they're not we will spend more time talking and look to make the _right_ decision. 
+- **Thinking through and tackling edge cases**: This is something I really value in engineers, the ability to identify and tackle edge cases before they become problems is a very valuable skill. At Monzo i learnt the hard ways that, at scale, edge cases can really hurt the business and the product.
 - **Organised approach to delivering work**: Process is a tool to deliver outcomes, use it wisely. We're not here to have perfect processes but to deliver value. If something isn't working and we can show, be proactive, own it and fix it.
 - **Impact focused time management**: Work never ends, meetings never end. Identify the priorities in your domain, priotise them and organise your calendar so you have focust time to deliver them (see [The Effective Executive](https://medium.com/power-books/the-effective-executive-by-peter-drucker-9b84c62bd94c)).
 
