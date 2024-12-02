@@ -14,7 +14,7 @@ My leadership philosphy can be boiled down to _being constantly curious, technic
   - [Philosphy](https://github.com/jahewett/manager-docs/blob/main/docs/about.md)
   - [Values](https://github.com/jahewett/manager-docs/blob/main/docs/about.md#what-do-i-value)
   - [Things I'm working on](https://github.com/jahewett/manager-docs/blob/main/docs/about.md#things-im-trying-to-get-better-at)
-- Work/Life Balance
+- [Work/Life Balance](https://github.com/jahewett/manager-docs/blob/main/docs/work-life-balance.md)
 - Principles
 - My role
 - Expectations
